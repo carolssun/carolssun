@@ -37,10 +37,15 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats | Estatísticas do GitHub
 
 <div align="center">
-  
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/carolssun?cardType=github&theme=radical&Background=0D1117&Text=00BFBF&Title=FF44AA&Ring=FF00AA&width=41%&height=195px]https://git.io/awesome-stats-card" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolssun&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carolssun&theme=radical&hide_border=true&background=0d1117"/>
+<!-- Estatísticas Principais - Awesome GitHub Stats -->
+ <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/carolssun?cardType=github&theme=radical&Background=0D1117&Text=00BFBF&Title=FF44AA&Ring=FF00AA&width=41%&height=195px]https://git.io/awesome-stats-card" />
+
+
+<!-- Top Linguagens - GitHub Readme Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolssun&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=FF44AA&text_color=00BFBF&icon_color=FF00AA&border_color=FF1493&custom_title=Linguagens%20Mais%20Usadas&count_private=true&include_all_commits=true&gradient=true&gradient_colors=FF44AA,FF00AA" alt="Top Languages" />
+
+<!-- Sequência de Contribuições - Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carolssun&hide_border=true&background=0D1117&ring=FF00AA&fire=FF44AA&sideLabels=FF44AA&dates=00BFBF&theme=radical&gradient=true&stroke=linear-gradient(90deg,FF44AA,FF00AA)" alt="GitHub Streak" />
+
 </div>
