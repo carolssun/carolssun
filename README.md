@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ### 🏆 GitHub Profile Trophy | Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolssun&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=carolssun&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  
 </div>
 
 <br>
@@ -47,5 +49,13 @@ Here are some ideas to get you started:
 
 <!-- Sequência de Contribuições - Streak Stats -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carolssun&hide_border=true&background=0D1117&ring=FF00AA&fire=FF44AA&sideLabels=FF44AA&dates=00BFBF&theme=radical&gradient=true&stroke=linear-gradient(90deg,FF44AA,FF00AA)" alt="GitHub Streak" />
+
+</div>
+
+### 📈 Contribution Graph | Gráfico de Contribuições
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carolssun&theme=pink&hide_border=true&bg_color=0d1117&color=FF9AC7&line=FF6EC7&point=FF44AA&area=true&area_color=FF1493" alt="Carolssun's Activity Graph" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9AC7&height=120&section=footer"/>
 
 </div>
