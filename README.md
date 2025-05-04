@@ -17,23 +17,22 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00AA&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+developer+in+training.;+Welcome!+💖;)](https://git.io/typing-svg)
 
----
+
 
 ### ⚡ Tech Stack | Stack de Tecnologias
 
 <div align="center">
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
-  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
-    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
-
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
+ <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+ <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
+ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
 
 </div>
 
---- 
+---
 
 ### 📚 Learning | Aprendendo
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
  
  <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"/></a>
  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
+ <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
 
 
 </div>
